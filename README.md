@@ -32,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/habeebckd/Leetcode/tree/master/0066-plus-one) |
+| [2383-add-two-integers](https://github.com/habeebckd/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
