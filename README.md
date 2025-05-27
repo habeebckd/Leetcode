@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/habeebckd/Leetcode/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/habeebckd/Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/habeebckd/Leetcode/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/habeebckd/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
