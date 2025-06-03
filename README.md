@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/habeebckd/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/habeebckd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/habeebckd/Leetcode/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/habeebckd/Leetcode/tree/master/0137-single-number-ii) |
 | [0948-sort-an-array](https://github.com/habeebckd/Leetcode/tree/master/0948-sort-an-array) |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/habeebckd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/habeebckd/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
