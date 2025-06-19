@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/habeebckd/Leetcode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/habeebckd/Leetcode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/habeebckd/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/habeebckd/Leetcode/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
