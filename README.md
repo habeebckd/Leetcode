@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/habeebckd/Leetcode/tree/master/0066-plus-one) |
+| [0507-perfect-number](https://github.com/habeebckd/Leetcode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/habeebckd/Leetcode/tree/master/2383-add-two-integers) |
 ## Divide and Conquer
 |  |
