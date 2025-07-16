@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/habeebckd/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0058-length-of-last-word](https://github.com/habeebckd/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/habeebckd/Leetcode/tree/master/0344-reverse-string) |
 ## Math
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/habeebckd/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/habeebckd/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/habeebckd/Leetcode/tree/master/0338-counting-bits) |
 ## Linked List
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/habeebckd/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/habeebckd/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
