@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/habeebckd/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/habeebckd/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/habeebckd/Leetcode/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/habeebckd/Leetcode/tree/master/0537-complex-number-multiplication) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/habeebckd/Leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/habeebckd/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/habeebckd/Leetcode/tree/master/0507-perfect-number) |
+| [0537-complex-number-multiplication](https://github.com/habeebckd/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2383-add-two-integers](https://github.com/habeebckd/Leetcode/tree/master/2383-add-two-integers) |
 ## Divide and Conquer
 |  |
@@ -106,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/habeebckd/Leetcode/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/habeebckd/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2058-concatenation-of-array](https://github.com/habeebckd/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
