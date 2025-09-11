@@ -112,4 +112,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/habeebckd/Leetcode/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/habeebckd/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2058-concatenation-of-array](https://github.com/habeebckd/Leetcode/tree/master/2058-concatenation-of-array) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/habeebckd/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/habeebckd/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/habeebckd/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/habeebckd/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
