@@ -1,7 +1,7 @@
 public class Solution {
     public int LongestValidParentheses(string s) {
         Stack<int> stack = new Stack<int>();
-        stack.Push(-1); // Initialize with -1
+        stack.Push(-1); 
         int maxLength = 0;
         
         for (int i = 0; i < s.Length; i++) {
